@@ -2,7 +2,8 @@
 <h1 align="center">Hi, I'm otoyuzu</h1>
 <h3 align="center">I am a game developer using Unity</h3>
 
-- I have recently been working on **a 3D game.**
+- I have recently been working on a 3D game.
+- I would like to create a Library for Unity.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
