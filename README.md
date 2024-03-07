@@ -5,10 +5,11 @@
 - I have recently been working on a 3D game.
 - Currently learning about related technologies used in Unity
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=otoyuzu705
-)](https://github.com/otoyuzu705/github-readme-stats)
+![Foo_name's GitHub stats](https://github-readme-stats.vercel.app/api?username=otoyuzu705&show_icons=true&theme=vue-dark)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=otoyuzu705)](https://github.com/otoyuzu705/github-profile-trophy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=otoyuzu705&layout=compact&theme=vue-dark)](https://github.com/otoyuzu705/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=otoyuzu705&theme=discord)](https://github.com/otoyuzu705/github-profile-trophy)
 
 
 <h3 align="left">Connect with me:</h3>
